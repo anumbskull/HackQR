@@ -1,0 +1,43 @@
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\PowerAttendance.deps.json
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\PowerAttendance.dll
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\PowerAttendance.pdb
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.csprojAssemblyReference.cache
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\QRResult.xaml.g.cs
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\ReportIncident.xaml.g.cs
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\StudentMain.xaml.g.cs
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.csproj.CoreCompileInputs.cache
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.AssemblyInfoInputs.cache
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.AssemblyInfo.cs
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.csproj.CopyComplete
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.dll
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.pdb
+C:\Users\michael.buonfiglio\source\repos\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\HelpfulNumbers.xaml.g.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\PowerAttendance.deps.json
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\PowerAttendance.dll
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\PowerAttendance.pdb
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\HelpfulNumbers.xaml.g.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\QRResult.xaml.g.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\ReportIncident.xaml.g.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\StudentMain.xaml.g.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.csproj.CoreCompileInputs.cache
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.AssemblyInfoInputs.cache
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.AssemblyInfo.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.csproj.CopyComplete
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.dll
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.pdb
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\PowerAttendance.csprojAssemblyReference.cache
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance\obj\Debug\netstandard2.0\BuildingMap.xaml.g.cs

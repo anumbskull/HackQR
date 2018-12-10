@@ -1,0 +1,5 @@
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance.Android\obj\Release\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance.Android\obj\Release\81\PowerAttendance.Android.nuget.stamp
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance.Android\obj\Release\81\PowerAttendance.Android.csprojAssemblyReference.cache
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance.Android\obj\Release\81\libraryimports.cache.stamp
+C:\Users\nick.hollin\Documents\QR Hack\PowerAttendance\PowerAttendance\PowerAttendance.Android\obj\Release\81\res.flag

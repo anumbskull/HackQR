@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PowerAttendance.HelpfulNumbers"
+             Title="Helpful Phone Numbers">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button x:Name="CallSuicde" Text="Suicide Prevention Hotline" HorizontalOptions="FillAndExpand" Margin="0,20,0,0" BackgroundColor="DeepSkyBlue"/>
+            <Button x:Name="CallLocalPolice" Text="Local Police" HorizontalOptions="FillAndExpand" BackgroundColor="DeepSkyBlue"/>
+            <Button x:Name="CallLocalFire" Text="Local Fire Department" HorizontalOptions="FillAndExpand" BackgroundColor="DeepSkyBlue"/>
+            <Button x:Name="CallAnimalControl" Text="Local Animal Control" HorizontalOptions="FillAndExpand" BackgroundColor="DeepSkyBlue"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

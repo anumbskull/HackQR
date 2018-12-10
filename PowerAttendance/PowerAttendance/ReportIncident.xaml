@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PowerAttendance"
+             x:Class="PowerAttendance.ReportIncident"
+             Title="Report Incident Anonymously">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="Location" TextColor="Black" FontSize="Medium"/>
+                <Entry x:Name="LocationInput" Placeholder="Where was the incident?" />
+                <Picker x:Name="IncidentType" Title="Incident Type" Margin="0,0,0,20">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Bullying (Verbal)</x:String>
+                            <x:String>Bullying (Physical)</x:String>
+                            <x:String>Fighting</x:String>
+                            <x:String>Graffiti</x:String>
+                            <x:String>Cheating</x:String>
+                            <x:String>Other</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Label Text="When did it happen?" FontSize="Medium" TextColor="Black" />
+                <StackLayout Margin="0,0,0,30">
+                    <TimePicker x:Name="IncidentTime" Time="12:00:00" Style="TimePickerDialogTheme"  TextColor="Black" />
+                    <DatePicker x:Name="IncidentDate" MinimumDate="01/1990" MaximumDate="12/31/2100" Date="12/11/2018" />
+                </StackLayout>
+                <Label Text="Details" TextColor="Black" FontSize="Medium"/>
+                <Editor x:Name="DetailInput" Placeholder="What other information can you add?" AutoSize="TextChanges" />
+                <Button x:Name="Report" Text="Report Incident" Clicked="Report_Clicked" BackgroundColor="DeepSkyBlue"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

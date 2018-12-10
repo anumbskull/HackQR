@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PowerAttendance.StudentMain">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" HeightRequest="100" Margin="0,10,0,0">
+                <Image Source="profile.jpg" Aspect="AspectFit" HorizontalOptions="CenterAndExpand"/>
+            </StackLayout>
+            <Label x:Name="Title" Text="Welcome to Main Student" HorizontalOptions="CenterAndExpand" FontSize="Medium" TextColor="Black" Margin="0,0,0,40"/>
+            
+            <Button x:Name="QRCode" Text="Check In" BackgroundColor="DeepSkyBlue" HorizontalOptions="FillAndExpand" FontSize="Medium" Clicked="QRCode_Clicked"/>
+            <Button x:Name="Report" Text="Report an Incident" BackgroundColor="DeepSkyBlue" HorizontalOptions="FillAndExpand" FontSize="Medium" Clicked="Report_Clicked"/>
+            <Button x:Name="PhoneNumber" Text="Helpful Phone Numbers" BackgroundColor="DeepSkyBlue" HorizontalOptions="FillAndExpand" FontSize="Medium" Clicked="PhoneNumber_Clicked"/>
+            <Button x:Name="BuildingMap" Text="School Map" BackgroundColor="DeepSkyBlue" HorizontalOptions="FillAndExpand" FontSize="Medium" Margin="0,0,0,50" Clicked="BuildingMap_Clicked"/>
+            <Button x:Name="Emergency" Text="Emergency Check In" IsEnabled="False" BackgroundColor="DeepSkyBlue" HorizontalOptions="FillAndExpand" FontSize="Medium" Clicked="Emergency_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
+
+<!--<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PowerAttendance.StudentMain">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="Title" Text="Welcome to Main Student" HorizontalOptions="CenterAndExpand" />
+            <StackLayout Orientation="Horizontal" HeightRequest="220" Margin="0,0,0,20">
+                <Image Source="profile.jpg" Aspect="AspectFit" HorizontalOptions="CenterAndExpand"/>
+            </StackLayout>
+            <Button x:Name="QRCode" Text="QR Code" HorizontalOptions="CenterAndExpand" Clicked="QRCode_Clicked"/>
+            <Button x:Name="Report" Text="Report an Incident" HorizontalOptions="CenterAndExpand" Clicked="Report_Clicked"/>
+            <Button x:Name="PhoneNumber" Text="Helpful Phone Numbers" HorizontalOptions="CenterAndExpand" Clicked="PhoneNumber_Clicked"/>
+            <Button x:Name="Emergency" Text="I'm Safe!" IsEnabled="False" HorizontalOptions="CenterAndExpand" Clicked="Emergency_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>-->
+

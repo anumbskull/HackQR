@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PowerAttendance"
+             x:Class="PowerAttendance.QRPage"
+             Title="Check In">
+    <StackLayout Margin="0,0,0,30">
+        <local:QRResult x:Name="qrResult" />
+        <Button x:Name="GenerateQR" Text="Check In" HorizontalOptions="CenterAndExpand" Margin="0,40,0,0" BackgroundColor="DeepSkyBlue" FontSize="Medium" /> <!--Clicked="GenerateQR_Clicked"-->
+
+    </StackLayout>
+</ContentPage>
